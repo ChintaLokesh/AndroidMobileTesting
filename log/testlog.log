@@ -1,0 +1,15 @@
+2017-01-26 19:17:39,290 - com.testScripts.CalculatorTest -INFO - Application is launched Successfully
+2017-01-26 19:17:39,334 - com.testScripts.CalculatorTest -INFO - Waiting for the application to be ready
+2017-01-26 19:17:52,541 - com.testScripts.CalculatorTest -INFO - Result of the test is 2+5
+=7. Editing
+2017-01-26 19:23:55,964 - com.testScripts.CalculatorTest -INFO - Application is launched Successfully
+2017-01-26 19:24:45,992 - com.testScripts.CalculatorTest -INFO - Application is launched Successfully
+2017-01-26 19:24:46,006 - com.testScripts.CalculatorTest -INFO - Waiting for the application to be ready
+2017-01-26 19:24:59,327 - com.testScripts.CalculatorTest -INFO - Result of the test is 2+5
+=7. Editing
+2017-01-26 19:34:26,741 - com.testScripts.CalculatorTest -INFO - Application is launched Successfully
+2017-01-26 19:34:26,757 - com.testScripts.CalculatorTest -INFO - Waiting for the application to be ready
+2017-01-26 19:44:26,614 - com.testScripts.CalculatorTest -INFO - Application is launched Successfully
+2017-01-26 19:44:26,645 - com.testScripts.CalculatorTest -INFO - Waiting for the application to be ready
+2017-01-26 19:44:40,237 - com.testScripts.CalculatorTest -INFO - Result of the test is 2+5
+=7. Editing
